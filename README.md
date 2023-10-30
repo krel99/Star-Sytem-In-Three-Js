@@ -15,6 +15,7 @@ The Armageddon Star System is a 3D interactive visualization of a star system bu
 
 ### Planned Features
 
+- Background texture (Cubic Map)
 - Imperial ships spawning on Armageddon and Acheron
 - Orc Warships spawning and attacking from Gorkamorka and its moons
 - Neural network will guide the ships, weight randomization will ensure the outcome is always different
